@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<table name="teacher">
+		<teacher>
+			<id>1002</id>
+			<age>19</age>
+			<name>张四</name>
+		</teacher>
+		<teacher>
+			<id>1003</id>
+			<age>18</age>
+			<name>张五</name>
+		</teacher>
+	</table>
+	<table name="student">
+	</table>
+</database>
